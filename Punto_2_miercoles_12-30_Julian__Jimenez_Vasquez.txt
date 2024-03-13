@@ -1,0 +1,5 @@
+Link repositorio:
+https://github.com/JulsMenz/Julian_Jimenez_punto_2
+
+Link despliegue:
+https://punto2.netlify.app/
