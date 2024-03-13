@@ -19,3 +19,17 @@ body {
   width: 100%;
   border-radius: 5px;
 }
+.title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 5px 0;
+}
+.category {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 5px;
+}
+.author {
+  font-size: 0.9em;
+  color: #333;
+}
